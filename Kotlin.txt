@@ -1,2 +1,3 @@
 nombre: valeria plazas
 celular: 3132309908
+correo:plazasvale20@gmail.com
